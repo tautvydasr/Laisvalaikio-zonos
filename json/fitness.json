@@ -1,0 +1,275 @@
+[
+  {
+    "id": "F-1",
+    "district": "Šilainių",
+    "address": "Baltų g. 69",
+    "count": 13,
+    "details": "Santarvės parke, nėra pagrindų"
+  },
+  {
+    "id": "F-2",
+    "district": "Šilainių",
+    "address": "Kuršių g. 6, 8, 14",
+    "count": 13
+  },
+  {
+    "id": "F-3",
+    "district": "Šilainių",
+    "address": "Rasytės g. 30, 32, 34, 36",
+    "count": 6,
+    "details": "žaliame plote"
+  },
+  {
+    "id": "F-4",
+    "district": "Šilainių",
+    "address": "Romainių g. 15",
+    "count": 4
+  },
+  {
+    "id": "F-5",
+    "district": "Dainavos",
+    "address": "Draugystės parke",
+    "count": 13,
+    "details": "nėra pagrindų"
+  },
+  {
+    "id": "F-6",
+    "district": "Dainavos",
+    "address": "Dainavos parke",
+    "count": 8,
+    "details": "nėra pagrindų"
+  },
+  {
+    "id": "F-7",
+    "district": "Dainavos",
+    "address": "Pramonės pr. 20",
+    "count": 4
+  },
+  {
+    "id": "F-8",
+    "district": "Eigulių",
+    "address": "Kalniečių parke",
+    "count": 13
+  },
+  {
+    "id": "F-9",
+    "district": "Eigulių",
+    "address": "Ašigalio g. 28",
+    "count": 13
+  },
+  {
+    "id": "F-10",
+    "district": "Eigulių",
+    "address": "Kleboniškio miškas",
+    "count": 3,
+    "details": "nėra pagrindų"
+  },
+  {
+    "id": "F-11",
+    "district": "Eigulių",
+    "address": "G. Vilko g. 20",
+    "count": 13
+  },
+  {
+    "id": "F-12",
+    "district": "Žaliakalnio",
+    "address": "P. Dovydaičio g./Darbininkų g.",
+    "count": 7,
+    "details": "A. Samuolio Samulevičiaus skveras, nėra pagrindų"
+  },
+  {
+    "id": "F-13",
+    "district": "Žaliakalnio",
+    "address": "S. Lozoraičio g. 13",
+    "count": 6,
+    "details": "prie KTU Inžinerijos Licėjaus, nėra pagrindų"
+  },
+  {
+    "id": "F-14",
+    "district": "Žaliakalnio",
+    "address": "Tvirtovės al. 35",
+    "count": 5
+  },
+  {
+    "id": "F-15",
+    "district": "Žaliakalnio",
+    "address": "Savanorių pr. 204",
+    "count": 5,
+    "details": "prie krepšinio aikštelės, nėra pagrindų"
+  },
+  {
+    "id": "F-16",
+    "district": "Žaliakalnio",
+    "address": "Ąžuolyno parkas",
+    "count": 13
+  },
+  {
+    "id": "F-17",
+    "district": "Vilijampolės",
+    "address": "Sąjungos aikštė",
+    "count": 13,
+    "details": "nėra pagrindų"
+  },
+  {
+    "id": "F-18",
+    "district": "Vilijampolės",
+    "address": "Lampėdžiuose",
+    "count": 13
+  },
+  {
+    "id": "F-19",
+    "district": "Vilijampolės",
+    "address": "Raudondvario pl. 161A",
+    "count": 10,
+    "details": "nėra pagrindų"
+  },
+  {
+    "id": "F-20",
+    "district": "Vilijampolės",
+    "address": "Ežero g.",
+    "count": 4,
+    "details": "nėra pagrindų"
+  },
+  {
+    "id": "F-21",
+    "district": "Vilijampolės",
+    "address": "Neries kr. parke",
+    "count": 6
+  },
+  {
+    "id": "F-22",
+    "district": "Aleksoto",
+    "address": "Antakalnio parke",
+    "count": 8
+  },
+  {
+    "id": "F-23",
+    "district": "Aleksoto",
+    "address": "Naugardiškio parke",
+    "count": 5
+  },
+  {
+    "id": "F-24",
+    "district": "Aleksoto",
+    "address": "Universiteto g./Maisto g.",
+    "count": 4
+  },
+  {
+    "id": "F-25",
+    "district": "Aleksoto",
+    "address": "Piliakalnio g. 9",
+    "count": 3,
+    "details": "nėra pagrindų"
+  },
+  {
+    "id": "F-26",
+    "district": "Aleksoto",
+    "address": "Vinčų g. 5,7",
+    "count": 5
+  },
+  {
+    "id": "F-27",
+    "district": "Petrašiūnų",
+    "address": "Masiulio g. 17",
+    "count": 13,
+    "details": "ant asfalto"
+  },
+  {
+    "id": "F-28",
+    "district": "Petrašiūnų",
+    "address": "Kauno marių pirmame paplūdimyje",
+    "count": 13,
+    "details": "Kauno marių pirmame paplūdimyje, nėra pagrindų"
+  },
+  {
+    "id": "F-29",
+    "district": "Petrašiūnų",
+    "address": "Marių g. 37",
+    "count": 6,
+    "details": "Palemono vid. mokykloje, nėra pagrindų"
+  },
+  {
+    "id": "F-30",
+    "district": "Petrašiūnų",
+    "address": "Guobų g. 99",
+    "count": 13,
+    "details": "nėra pagrindų"
+  },
+  {
+    "id": "F-31",
+    "district": "Petrašiūnų",
+    "address": "Gimbutienės g.",
+    "count": 4,
+    "details": "priešais kapines, nėra pagrindų"
+  },
+  {
+    "id": "F-32",
+    "district": "Petrašiūnų",
+    "address": "Armatūrininkų g. 1",
+    "count": 3,
+    "details": "nėra pagrindų"
+  },
+  {
+    "id": "F-33",
+    "district": "Centro",
+    "address": "Santakos parke ",
+    "count": 12
+  },
+  {
+    "id": "F-34",
+    "district": "Centro",
+    "address": "Nemuno saloje",
+    "count": 13
+  },
+  {
+    "id": "F-35",
+    "district": "Gričiupio",
+    "address": "Kovo 11-osios parke",
+    "count": 13
+  },
+  {
+    "id": "F-36",
+    "district": "Gričiupio",
+    "address": "Biržiškų g. / Gravrokų g.",
+    "count": 7
+  },
+  {
+    "id": "F-37",
+    "district": "Šančių",
+    "address": "Verkių g. 48",
+    "count": 7
+  },
+  {
+    "id": "F-38",
+    "district": "Šančių",
+    "address": "Kranto al. 52",
+    "count": 6
+  },
+  {
+    "id": "F-39",
+    "district": "Šančių",
+    "address": "Vokiečių g. 164",
+    "count": 7,
+    "details": "Nemuno kr., nėra pagrindų."
+  },
+  {
+    "id": "F-40",
+    "district": "Panemunės",
+    "address": "A. Smetonos al. 4, Kaunas 45324",
+    "count": 13
+  },
+  {
+    "id": "F-41",
+    "district": "Panemunės",
+    "address": "Vaišvydo g. 28",
+    "count": 4,
+    "details": "Vaišvydavos mok. teritorijoje, nėra pagrindų"
+  },
+  {
+    "id": "F-42",
+    "district": "Panemunės",
+    "address": "Vijūnų g. 2",
+    "count": 4,
+    "details": "nėra pagrindų."
+  }
+]

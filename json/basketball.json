@@ -1,0 +1,434 @@
+[
+  {
+    "id": "B-1",
+    "district": "Žaliakalnio",
+    "address": "Basanavičiaus g. 43B",
+    "details": "1 krepšinio lenta su lanku ir tinkleliu"
+  },
+  {
+    "id": "B-2",
+    "district": "Žaliakalnio",
+    "address": "Savanorių pr. 204",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lanku ir tinkleliu"
+  },
+  {
+    "id": "B-3",
+    "district": "Žaliakalnio",
+    "address": "Kalniečių g. 180",
+    "details": "2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-4",
+    "district": "Vilijampolės",
+    "address": "Lampėdžių g. 10",
+    "details": "1 krepšinio lenta su lanku ir tinkleliu"
+  },
+  {
+    "id": "B-5",
+    "district": "Vilijampolės",
+    "address": "Demokratų g. 38, 40",
+    "details": "1 krepšinio stovas,   1 krepšinio lenta su lanku ir tinkleliu"
+  },
+  {
+    "id": "B-6",
+    "district": "Vilijampolės",
+    "address": "Raudondvario pl. 190, 192",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-7",
+    "district": "Vilijampolės",
+    "address": "Tilžės g. 30",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-8",
+    "district": "Vilijampolės",
+    "address": "Raudondvario pl. 184",
+    "details": "1 krepšinio stovas,   1 krepšinio lenta su lanku ir tinkleliu"
+  },
+  {
+    "id": "B-9",
+    "district": "Centro",
+    "address": "Kęstučio g. 55/Karaliaus Mindaugo pr. 34",
+    "details": "2 krepšinio lankai su tinkleliais"
+  },
+  {
+    "id": "B-10",
+    "district": "Centro",
+    "address": "Santakos parke",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-11",
+    "district": "Šančių",
+    "address": "Plieno g. 1",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-12",
+    "district": "Šančių",
+    "address": "Prancūzų g. 6",
+    "details": "1 krepšinio stovas,   1 krepšinio lenta su lanku ir tinkleliu"
+  },
+  {
+    "id": "B-13",
+    "district": "Šančių",
+    "address": "Kranto al. 52 ir 54",
+    "details": "1 krepšinio stovas,   1 krepšinio lenta su lanku ir tinkleliu"
+  },
+  {
+    "id": "B-14",
+    "district": "Šančių",
+    "address": "Žarėnų g. 17",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-15",
+    "district": "Šančių",
+    "address": "Sandėlių g. 7",
+    "details": "1 krepšinio stovas,   1 krepšinio lenta su lanku ir tinkleliu"
+  },
+  {
+    "id": "B-16",
+    "district": "Šančių",
+    "address": "Ašmenos 2-oji g. 25",
+    "details": "1 krepšinio stovas,   1 krepšinio lenta su lanku ir tinkleliu"
+  },
+  {
+    "id": "B-17",
+    "district": "Petrašiūnų",
+    "address": "T. Masiulio g. 17",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-18",
+    "district": "Petrašiūnų",
+    "address": "Ekskavatorininkų g. 3, 1, 1A, 3A, 5A",
+    "details": "1 krepšinio stovas,   1 krepšinio lenta su lanku ir tinkleliu"
+  },
+  {
+    "id": "B-19",
+    "district": "Petrašiūnų",
+    "address": "R. Kalantos g. 42, 44, 44B",
+    "details": "1 krepšinio stovas,   1 krepšinio lenta su lanku ir tinkleliu"
+  },
+  {
+    "id": "B-20",
+    "district": "Petrašiūnų",
+    "address": "R. Kalantos g. 139 ir 145",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-21",
+    "district": "Gričiupio",
+    "address": "Kovo 11-osios g. 31 ir 41",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-22",
+    "district": "Gričiupio",
+    "address": "Kovo 11-osios g. 42 ir 44",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-23",
+    "district": "Gričiupio",
+    "address": "Pašilės g. 27 ir Gričiupio g. 11 ir 13",
+    "details": "2 krepšinio lankai ir tinkleliai"
+  },
+  {
+    "id": "B-24",
+    "district": "Šilainių",
+    "address": "Kuršių g. 6 ir 14",
+    "details": "3 krepšinio stovai,   3 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-25",
+    "district": "Šilainių",
+    "address": "Kuršių g. 18 ir 26",
+    "details": "1 krepšinio stovas,   1 krepšinio lenta su lanku ir tinkleliu"
+  },
+  {
+    "id": "B-26",
+    "district": "Šilainių",
+    "address": "Kuršių g. 32 ir 40",
+    "details": "1 krepšinio stovas,   1 krepšinio lenta su lanku ir tinkleliu"
+  },
+  {
+    "id": "B-27",
+    "district": "Šilainių",
+    "address": "Šarkuvos g. 8 ir 10",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-28",
+    "district": "Šilainių",
+    "address": "Rasytės g. 2, 12 ir 18",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-29",
+    "district": "Šilainių",
+    "address": "Rasytės g. 30 ir 34",
+    "details": "1 krepšinio stovas,   1 krepšinio lenta su lanku ir tinkleliu"
+  },
+  {
+    "id": "B-30",
+    "district": "Šilainių",
+    "address": "Baltų g.  67",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-31",
+    "district": "Šilainių",
+    "address": "Rasytės g. 30 ir 34",
+    "details": "1 krepšinio lankas ir tinklelis"
+  },
+  {
+    "id": "B-32",
+    "district": "Šilainių",
+    "address": "Rasytės g. 42 ir 46",
+    "details": "4 krepšinio stovai,   4 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-33",
+    "district": "Šilainių",
+    "address": "Rasytės g. 7 / 9",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-34",
+    "district": "Šilainių",
+    "address": "Vėtrungės g. 7 ir 9",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-35",
+    "district": "Šilainių",
+    "address": "J. Grušo g. 2",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-36",
+    "district": "Šilainių",
+    "address": "Rietavo g. 1 ir 3",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-37",
+    "district": "Šilainių",
+    "address": "Baltų pr.73 ir 77",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-38",
+    "district": "Šilainių",
+    "address": "Baltų pr. 139",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-39",
+    "district": "Šilainių",
+    "address": "Baltijos g. 70 ir 78",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-40",
+    "district": "Šilainių",
+    "address": "Baltijos g. 88 ir 94",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-41",
+    "district": "Eigulių",
+    "address": "K. Škirpos g. 2 ir P.Plechavičiaus g. 25, 29 ir",
+    "details": "1 krepšinio lankas ir tinklelis"
+  },
+  {
+    "id": "B-42",
+    "district": "Eigulių",
+    "address": "Savanorių pr. 397 ir 399 ir P. Lukšio g. 8, 10",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-43",
+    "district": "Eigulių",
+    "address": "Ukmergės g. 8, 12 ir S. Žukausko g. 5",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-44",
+    "district": "Eigulių",
+    "address": "Ukmergės g. 26",
+    "details": "1 krepšinio lenta su lanku ir tinkleliu"
+  },
+  {
+    "id": "B-45",
+    "district": "Eigulių",
+    "address": "Ukmergės g. 26",
+    "details": "1 krepšinio stovas,   1 krepšinio lenta su lanku ir tinkleliu"
+  },
+  {
+    "id": "B-46",
+    "district": "Eigulių",
+    "address": "Ukmergės g. 23 ir Sukilėlių pr. 106",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-47",
+    "district": "Eigulių",
+    "address": "Ukmergės g. 36",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-48",
+    "district": "Eigulių",
+    "address": "K. Škirpos g. 2",
+    "details": "1 krepšinio stovas,   1 krepšinio lenta su lanku ir tinkleliu"
+  },
+  {
+    "id": "B-49",
+    "district": "Eigulių",
+    "address": "Ašigalio g. 19, 23 ir 27",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-50",
+    "district": "Eigulių",
+    "address": "Geležinio Vilko g. 20",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-51",
+    "district": "Eigulių",
+    "address": "Geležinio Vilko g. 1 ir 1A",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-52",
+    "district": "Panemunės",
+    "address": "Vaidoto g. 11",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-53",
+    "district": "Panemunės",
+    "address": "Vilkų g. / Šernų g.",
+    "details": "1 krepšinio stovas,   1 krepšinio lenta su lanku ir tinkleliu"
+  },
+  {
+    "id": "B-54",
+    "district": "Panemunės",
+    "address": "Mažosios g. 9 ir Kampiškių g. 3",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-55",
+    "district": "Panemunės",
+    "address": "Plento g. 24",
+    "details": "1 krepšinio stovas,   1 krepšinio lenta su lanku ir tinkleliu"
+  },
+  {
+    "id": "B-56",
+    "district": "Panemunės",
+    "address": "Pušų g.",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-57",
+    "district": "Aleksoto",
+    "address": "Lakūnų pl. 44",
+    "details": "Žaidimų aikštelė"
+  },
+  {
+    "id": "B-58",
+    "district": "Aleksoto",
+    "address": "Bitininkų g.  31",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-59",
+    "district": "Aleksoto",
+    "address": "Lakūnų pl. šalia esančios tinklinio aikštelės",
+    "details": "1 krepšinio stovas,   1 krepšinio lenta su lanku ir tinkleliu"
+  },
+  {
+    "id": "B-60",
+    "district": "Aleksoto",
+    "address": "Veiverių g. 132",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-61",
+    "district": "Aleksoto",
+    "address": "Piliakalnio g. 9",
+    "details": "1 krepšinio stovas,   1 krepšinio lenta su lanku ir tinkleliu"
+  },
+  {
+    "id": "B-62",
+    "district": "Aleksoto",
+    "address": "Naugardiškių parke  (1 trikrepšis)",
+    "details": "1 krepšinio stovai,   3 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-63",
+    "district": "Aleksoto",
+    "address": "Dvarų g. 49",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-64",
+    "district": "Dainavos",
+    "address": "Pramonės pr. 73 ir 77",
+    "details": "2 krepšinio lankai ir tinkleliai"
+  },
+  {
+    "id": "B-65",
+    "district": "Dainavos",
+    "address": "V. Krėvės pr. 117",
+    "details": "2 krepšinio lankai ir tinkleliai"
+  },
+  {
+    "id": "B-66",
+    "district": "Dainavos",
+    "address": "V. Krėvės pr. 9A ir Partizanų g. 38",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-67",
+    "district": "Dainavos",
+    "address": "V. Krėvės pr. 75 ir 77",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-68",
+    "district": "Dainavos",
+    "address": "Savanorių pr. 300",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-69",
+    "district": "Dainavos",
+    "address": "Savanorių pr. 370 ir 372",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-70",
+    "district": "Dainavos",
+    "address": "Taikos pr. 87",
+    "details": "1 krepšinio stovas,   1 krepšinio lenta su lanku ir tinkleliu"
+  },
+  {
+    "id": "B-71",
+    "district": "Dainavos",
+    "address": "Pramonės pr. 35",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  },
+  {
+    "id": "B-72",
+    "district": "Dainavos",
+    "address": "Draugystės parke",
+    "details": "2 krepšinio stovai,   2 krepšinio lentos su lankais ir tinkleliais"
+  }
+]
